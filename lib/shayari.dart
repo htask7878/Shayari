@@ -118,7 +118,7 @@ class _shayriState extends State<shayri> {
                           color: Color(0xff20ae72), fontSize: 18),
                     ),
                     leading: Container(
-                      height: 50,
+                      height: 50,//
                       width: 50,
                       decoration: BoxDecoration(
                         shape: BoxShape.rectangle,
